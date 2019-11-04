@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.08c23a9908d0b2698700.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.08c23a9908d0b2698700.bundle.js.map",
+    "runtime~main.js": "/runtime~main.08c23a9908d0b2698700.bundle.js",
+    "runtime~main.js.map": "/runtime~main.08c23a9908d0b2698700.bundle.js.map",
+    "vendors~main.js": "/vendors~main.08c23a9908d0b2698700.bundle.js",
+    "vendors~main.js.map": "/vendors~main.08c23a9908d0b2698700.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.cfd69348117a44e90e99b16501ec5b0e.js": "/precache-manifest.cfd69348117a44e90e99b16501ec5b0e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/workday-bg.jpg": "/static/media/workday-bg.973ed556.jpg"
+  },
+  "entrypoints": [
+    "runtime~main.08c23a9908d0b2698700.bundle.js",
+    "vendors~main.08c23a9908d0b2698700.bundle.js",
+    "main.css",
+    "main.08c23a9908d0b2698700.bundle.js"
+  ]
+}
