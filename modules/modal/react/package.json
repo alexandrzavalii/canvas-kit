@@ -39,7 +39,7 @@
     "@emotion/core": "^10.0.28",
     "@emotion/styled": "^10.0.27",
     "@workday/canvas-kit-react-popup": "^3.8.0",
-    "focus-trap-js": "git+https://github.com/alexandrzavalii/focus-trap-js.git#support_radio_input"
+    "focus-trap-js": "1.1.0"
   },
   "peerDependencies": {
     "react": ">= 16.8 < 17"
